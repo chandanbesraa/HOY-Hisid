@@ -80,7 +80,7 @@ export default function App() {
 
       {/* App title */}
       <header className="app-header">
-        <h1>WeatherLens</h1>
+        <h1>Hoy-Hisid</h1>
         <p>Real-time weather, anywhere on Earth</p>
       </header>
 
@@ -124,7 +124,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="app-footer">
-        Powered by OpenWeatherMap · WeatherLens © 2026
+        Powered by OpenWeatherMap · Hoy-hisid © 2026
       </footer>
 
     </div>
